@@ -18,15 +18,24 @@ This survey [A survey of cross-lingual word embedding models](https://arxiv.org/
 6. Lu, Ang & Wang, Weiran & Bansal, Mohit & Gimpel, Kevin & Livescu, Karen. (2015). Deep Multilingual Correlation for Improved Word Embeddings. 250-256. 10.3115/v1/N15-1028.  [[paper]](https://www.researchgate.net/publication/301404407_Deep_Multilingual_Correlation_for_Improved_Word_Embeddings)
 7. Artetxe, Mikel & Labaka, Gorka & Agirre, Eneko. (2016). Learning principled bilingual mappings of word embeddings while preserving monolingual invariance. 2289-2294. 10.18653/v1/D16-1250.  [[paper]](https://www.researchgate.net/publication/311990620_Learning_principled_bilingual_mappings_of_word_embeddings_while_preserving_monolingual_invariance) [[code]](https://github.com/artetxem/vecmap)
 8. Zhang, Yuan & Gaddy, David & Barzilay, Regina & Jaakkola, Tommi. (2016). Ten Pairs to Tag – Multilingual POS Tagging via Coarse Mapping between Embeddings. 1307-1317. 10.18653/v1/N16-1156.  [[paper]](https://www.aclweb.org/anthology/N16-1156.pdf) [[code]](https://github.com/yuanzh/transfer_pos)
+9. Smith, Samuel & Turban, David & Hamblin, Steven & Hammerla, Nils. (2017). Offline bilingual word vectors, orthogonal transformations and the inverted softmax.  [[paper]](https://arxiv.org/pdf/1702.03859)
+10. Mikel Artetxe, Gorka Labaka, and Eneko Agirre. 2018. Generalizing and improving bilingual word embedding mappings with a multi-step framework of linear transformations. In *Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)*, pages 5012-5019. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16935/16781)
 
 TBD
 
 ## Weak Supervisied
 
 1. Zhang, M., Liu, Y., Luan, H., Liu, Y., & Sun, M. (2016). Inducing Bilingual Lexica From Non-Parallel Data With Earth Mover’s Distance Regularization. In Proceedings of COLING 2016, pp. 3188–3198.  [[paper]](http://nlp.csai.tsinghua.edu.cn/~ly/papers/coling2016.pdf)
+2. Artetxe, M., Labaka, G., & Agirre, E. (2017). Learning bilingual word embeddings with (almost) no bilingual data. In Proceedings of ACL, pp. 451–462. [[paper]](https://www.aclweb.org/anthology/P17-1042/)
 
 TBD
 
 ## Unsupervisied
 
-TBD
+1. Zhang, M., Liu, Y., Luan, H., & Sun, M. (2017). Adversarial training for unsupervised bilingual lexicon induction. In Proceedings of ACL, pp. 1959–1970. [[paper]](https://www.aclweb.org/anthology/P17-1179.pdf)[[unofficial code]](https://github.com/muyeby/Paper-Reimplement/tree/11610ef41ea8d1c4897a11799b6e80fa0496e67d/Adversarial-Lexicon-Induction/zhang2017acl)
+
+2. Zhang, M., Liu, Y., Luan, H., & Sun, M. (2017). Earth Mover’ s Distance Minimization for Unsupervised Bilingual Lexicon Induction. In Proceedings of EMNLP 2017. [[paper]](https://www.aclweb.org/anthology/D17-1207.pdf)
+
+3. Artetxe, M., Labaka, G., & Agirre, E. (2018). A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings. In Proceedings of ACL 2018. [[paper]](https://arxiv.org/abs/1805.06297v2)
+
+   TBD	
