@@ -33,7 +33,7 @@ This survey [A survey of cross-lingual word embedding models](https://arxiv.org/
 
 1. Zhang, M., Liu, Y., Luan, H., & Sun, M. (2017). Adversarial training for unsupervised bilingual lexicon induction. In Proceedings of ACL, pp. 1959–1970. [[paper]](https://www.aclweb.org/anthology/P17-1179.pdf)[[unofficial code]](https://github.com/muyeby/Paper-Reimplement/tree/11610ef41ea8d1c4897a11799b6e80fa0496e67d/Adversarial-Lexicon-Induction/zhang2017acl)
 2. Zhang, M., Liu, Y., Luan, H., & Sun, M. (2017). Earth Mover’ s Distance Minimization for Unsupervised Bilingual Lexicon Induction. In Proceedings of EMNLP 2017. [[paper]](https://www.aclweb.org/anthology/D17-1207.pdf)
-3. Conneau, Alexis & Lample, Guillaume & Ranzato, Marc'Aurelio & Denoyer, Ludovic & Jégou, Hervé. (2017). Word Translation Without Parallel Data.  [[paper]](https://www.researchgate.net/publication/320344586_Word_Translation_Without_Parallel_Data)[[code](MUSE)](https://github.com/facebookresearch/MUSE)
+3. Conneau, Alexis & Lample, Guillaume & Ranzato, Marc'Aurelio & Denoyer, Ludovic & Jégou, Hervé. (2017). Word Translation Without Parallel Data.  [[paper]](https://www.researchgate.net/publication/320344586_Word_Translation_Without_Parallel_Data)[(code MUSE)](https://github.com/facebookresearch/MUSE)
 4. Søgaard, Anders & Ruder, Sebastian & Vulić, Ivan. (2018). On the Limitations of Unsupervised Bilingual Dictionary Induction.  [[paper]](https://www.aclweb.org/anthology/P18-1072/)
 5. Artetxe, M., Labaka, G., & Agirre, E. (2018). A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings. In Proceedings of ACL 2018. [[paper]](https://arxiv.org/abs/1805.06297v2)
 6. Vulić, Ivan & Glavaš, Goran & Reichart, Roi & Korhonen, Anna. (2019). Do We Really Need Fully Unsupervised Cross-Lingual Embeddings?. [[paper]](https://www.aclweb.org/anthology/D19-1449/)	
@@ -48,3 +48,12 @@ This survey [A survey of cross-lingual word embedding models](https://arxiv.org/
 ## Post-Processing
 
 1. Vulić, Ivan, Anna Korhonen, and Goran Glavaš. "Improving Bilingual Lexicon Induction with Unsupervised Post-Processing of Monolingual Word Vector Spaces." Proceedings of the 5th Workshop on Representation Learning for NLP. 2020. [[paper]](https://www.aclweb.org/anthology/2020.repl4nlp-1.7/)
+
+## Different Self-learning methods
+
+1. Karan, M., Vulić, I., Korhonen, A. and Glavaš, G., 2020, July. Classification-based self-learning for weakly supervised bilingual lexicon induction. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 6915-6922). [[paper]](https://www.aclweb.org/anthology/2020.acl-main.618.pdf)
+
+## Classification-based method
+
+1. Heyman, Geert & Vulić, Ivan & Moens, Marie-Francine. (2017). Bilingual Lexicon Induction by Learning to Combine Word-Level and Character-Level Representations. 1085-1095. 10.18653/v1/E17-1102. [[paper]](https://www.aclweb.org/anthology/E17-1102.pdf)
+
