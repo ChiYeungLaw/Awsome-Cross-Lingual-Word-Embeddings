@@ -41,9 +41,12 @@ This survey [A survey of cross-lingual word embedding models](https://arxiv.org/
 
 ## Non-linear Mapping
 
-1. Patra, Barun & Moniz, Joel & Garg, Sarthak & Gormley, Matthew & Neubig, Graham. (2019). Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces.  [[paper]](https://www.aclweb.org/anthology/P19-1018/)
-2. Vulić, Ivan & Ruder, Sebastian & Søgaard, Anders. (2020). Are All Good Word Vector Spaces Isomorphic?.  [[paper]](https://www.researchgate.net/publication/340523938_Are_All_Good_Word_Vector_Spaces_Isomorphic)
-3. Mohiuddin, Tasnim & Bari, M & Joty, Shafiq. (2020). LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space.  [[paper]](https://www.researchgate.net/publication/341040113_LNMap_Departures_from_Isomorphic_Assumption_in_Bilingual_Lexicon_Induction_Through_Non-Linear_Mapping_in_Latent_Space)
+1. Nakashole, Ndapa. (2018). NORMA: Neighborhood Sensitive Maps for Multilingual Word Embeddings. 512-522. 10.18653/v1/D18-1047.  [[paper]](https://www.aclweb.org/anthology/D18-1047/)
+2. Patra, Barun & Moniz, Joel & Garg, Sarthak & Gormley, Matthew & Neubig, Graham. (2019). Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces.  [[paper]](https://www.aclweb.org/anthology/P19-1018/)
+3. Vulić, Ivan & Ruder, Sebastian & Søgaard, Anders. (2020). Are All Good Word Vector Spaces Isomorphic?.  [[paper]](https://www.researchgate.net/publication/340523938_Are_All_Good_Word_Vector_Spaces_Isomorphic)
+4. Mohiuddin, Tasnim & Bari, M & Joty, Shafiq. (2020). LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space.  [[paper]](https://www.researchgate.net/publication/341040113_LNMap_Departures_from_Isomorphic_Assumption_in_Bilingual_Lexicon_Induction_Through_Non-Linear_Mapping_in_Latent_Space)
+5. Glavaš, Goran, and Ivan Vulić. "Non-linear instance-based cross-lingual mapping for non-isomorphic embedding spaces." Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.675.pdf)
+6. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.675.pdf)
 
 ## Post-Processing
 
@@ -57,3 +60,6 @@ This survey [A survey of cross-lingual word embedding models](https://arxiv.org/
 
 1. Heyman, Geert & Vulić, Ivan & Moens, Marie-Francine. (2017). Bilingual Lexicon Induction by Learning to Combine Word-Level and Character-Level Representations. 1085-1095. 10.18653/v1/E17-1102. [[paper]](https://www.aclweb.org/anthology/E17-1102.pdf)
 
+## Evaluation
+
+1. Glavaš, Goran & Litschko, Robert & Ruder, Sebastian & Vulić, Ivan. (2019). How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions. 710-721. 10.18653/v1/P19-1070. [[pape]](https://www.aclweb.org/anthology/P19-1070.pdf)
