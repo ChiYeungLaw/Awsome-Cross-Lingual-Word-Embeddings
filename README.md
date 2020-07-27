@@ -22,6 +22,7 @@ This survey [A survey of cross-lingual word embedding models](https://arxiv.org/
 10. Smith, Samuel & Turban, David & Hamblin, Steven & Hammerla, Nils. (2017). Offline bilingual word vectors, orthogonal transformations and the inverted softmax.  [[paper]](https://arxiv.org/pdf/1702.03859)
 11. Mikel Artetxe, Gorka Labaka, and Eneko Agirre. 2018. Generalizing and improving bilingual word embedding mappings with a multi-step framework of linear transformations. In *Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)*, pages 5012-5019. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16935/16781)
 12. Joulin, Armand & Bojanowski, Piotr & Mikolov, Tomas & Jégou, Hervé & Grave, Edouard. (2018). Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion. 2979-2984. 10.18653/v1/D18-1330. [[paper]](https://www.aclweb.org/anthology/D18-1330/)
+13. Doval, Yerai & Camacho-Collados, José & Espinosa-Anke, Luis & Schockaert, Steven. (2018). Improving Cross-Lingual Word Embeddings by Meeting in the Middle. 294-304. 10.18653/v1/D18-1027.  [[paper]](https://www.aclweb.org/anthology/D18-1027/)
 
 ### Weak Supervised
 
@@ -34,25 +35,34 @@ This survey [A survey of cross-lingual word embedding models](https://arxiv.org/
 1. Zhang, M., Liu, Y., Luan, H., & Sun, M. (2017). Adversarial training for unsupervised bilingual lexicon induction. In Proceedings of ACL, pp. 1959–1970. [[paper]](https://www.aclweb.org/anthology/P17-1179.pdf)[[unofficial code]](https://github.com/muyeby/Paper-Reimplement/tree/11610ef41ea8d1c4897a11799b6e80fa0496e67d/Adversarial-Lexicon-Induction/zhang2017acl)
 2. Zhang, M., Liu, Y., Luan, H., & Sun, M. (2017). Earth Mover’ s Distance Minimization for Unsupervised Bilingual Lexicon Induction. In Proceedings of EMNLP 2017. [[paper]](https://www.aclweb.org/anthology/D17-1207.pdf)
 3. Conneau, Alexis & Lample, Guillaume & Ranzato, Marc'Aurelio & Denoyer, Ludovic & Jégou, Hervé. (2017). Word Translation Without Parallel Data.  [[paper]](https://www.researchgate.net/publication/320344586_Word_Translation_Without_Parallel_Data)[(code MUSE)](https://github.com/facebookresearch/MUSE)
-4. Søgaard, Anders & Ruder, Sebastian & Vulić, Ivan. (2018). On the Limitations of Unsupervised Bilingual Dictionary Induction.  [[paper]](https://www.aclweb.org/anthology/P18-1072/)
 5. Artetxe, M., Labaka, G., & Agirre, E. (2018). A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings. In Proceedings of ACL 2018. [[paper]](https://arxiv.org/abs/1805.06297v2)
-6. Vulić, Ivan & Glavaš, Goran & Reichart, Roi & Korhonen, Anna. (2019). Do We Really Need Fully Unsupervised Cross-Lingual Embeddings?. [[paper]](https://www.aclweb.org/anthology/D19-1449/)	
 
 
 ## Non-linear Mapping
 
 1. Nakashole, Ndapa. (2018). NORMA: Neighborhood Sensitive Maps for Multilingual Word Embeddings. 512-522. 10.18653/v1/D18-1047.  [[paper]](https://www.aclweb.org/anthology/D18-1047/)
 2. Patra, Barun & Moniz, Joel & Garg, Sarthak & Gormley, Matthew & Neubig, Graham. (2019). Bilingual Lexicon Induction with Semi-supervision in Non-Isometric Embedding Spaces.  [[paper]](https://www.aclweb.org/anthology/P19-1018/)
-3. Vulić, Ivan & Ruder, Sebastian & Søgaard, Anders. (2020). Are All Good Word Vector Spaces Isomorphic?.  [[paper]](https://www.researchgate.net/publication/340523938_Are_All_Good_Word_Vector_Spaces_Isomorphic)
-4. Mohiuddin, Tasnim & Bari, M & Joty, Shafiq. (2020). LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space.  [[paper]](https://www.researchgate.net/publication/341040113_LNMap_Departures_from_Isomorphic_Assumption_in_Bilingual_Lexicon_Induction_Through_Non-Linear_Mapping_in_Latent_Space)
-5. Glavaš, Goran, and Ivan Vulić. "Non-linear instance-based cross-lingual mapping for non-isomorphic embedding spaces." Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.675.pdf)
-6. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.675.pdf)
+3. Mohiuddin, Tasnim & Bari, M & Joty, Shafiq. (2020). LNMap: Departures from Isomorphic Assumption in Bilingual Lexicon Induction Through Non-Linear Mapping in Latent Space.  [[paper]](https://www.researchgate.net/publication/341040113_LNMap_Departures_from_Isomorphic_Assumption_in_Bilingual_Lexicon_Induction_Through_Non-Linear_Mapping_in_Latent_Space)
+4. Glavaš, Goran, and Ivan Vulić. "Non-linear instance-based cross-lingual mapping for non-isomorphic embedding spaces." Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020. [[paper]](https://www.aclweb.org/anthology/2020.acl-main.675.pdf)
 
-## Post-Processing
+## Analysis
 
-1. Vulić, Ivan, Anna Korhonen, and Goran Glavaš. "Improving Bilingual Lexicon Induction with Unsupervised Post-Processing of Monolingual Word Vector Spaces." Proceedings of the 5th Workshop on Representation Learning for NLP. 2020. [[paper]](https://www.aclweb.org/anthology/2020.repl4nlp-1.7/)
+1. Søgaard, Anders & Ruder, Sebastian & Vulić, Ivan. (2018). On the Limitations of Unsupervised Bilingual Dictionary Induction.  [[paper]](https://www.aclweb.org/anthology/P18-1072/)
+2. Nakashole, Ndapa & Flauger, Raphael. (2018). Characterizing Departures from Linearity in Word Translation.  [[paper]](https://www.aclweb.org/anthology/P18-2036.pdf)
+3. Glavaš, Goran & Litschko, Robert & Ruder, Sebastian & Vulić, Ivan. (2019). How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions. 710-721. 10.18653/v1/P19-1070. [[pape]](https://www.aclweb.org/anthology/P19-1070.pdf)
+4. Vulić, Ivan & Glavaš, Goran & Reichart, Roi & Korhonen, Anna. (2019). Do We Really Need Fully Unsupervised Cross-Lingual Embeddings?. [[paper]](https://www.aclweb.org/anthology/D19-1449/)	
+5. Vulić, Ivan & Ruder, Sebastian & Søgaard, Anders. (2020). Are All Good Word Vector Spaces Isomorphic?.  [[paper]](https://www.researchgate.net/publication/340523938_Are_All_Good_Word_Vector_Spaces_Isomorphic)
 
-## Different Self-learning methods
+## Pre-Processing
+
+1. Zhang, Mozhi et al. “Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization.” *ACL* (2019). [[paper]](https://arxiv.org/abs/1906.01622)
+2. Vulić, Ivan, Anna Korhonen, and Goran Glavaš. "Improving Bilingual Lexicon Induction with Unsupervised Post-Processing of Monolingual Word Vector Spaces." Proceedings of the 5th Workshop on Representation Learning for NLP. 2020. [[paper]](https://www.aclweb.org/anthology/2020.repl4nlp-1.7/)
+
+## Post-Refinement
+
+1. Biesialska, M., & Costa-jussà, M.R. (2020). Refinement of Unsupervised Cross-Lingual Word Embeddings. *ArXiv, abs/2002.09213*. [[paper]](https://arxiv.org/abs/2002.09213v1)
+
+## Improvement of Self-learning methods
 
 1. Karan, M., Vulić, I., Korhonen, A. and Glavaš, G., 2020, July. Classification-based self-learning for weakly supervised bilingual lexicon induction. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 6915-6922). [[paper]](https://www.aclweb.org/anthology/2020.acl-main.618.pdf)
 
@@ -60,6 +70,3 @@ This survey [A survey of cross-lingual word embedding models](https://arxiv.org/
 
 1. Heyman, Geert & Vulić, Ivan & Moens, Marie-Francine. (2017). Bilingual Lexicon Induction by Learning to Combine Word-Level and Character-Level Representations. 1085-1095. 10.18653/v1/E17-1102. [[paper]](https://www.aclweb.org/anthology/E17-1102.pdf)
 
-## Evaluation
-
-1. Glavaš, Goran & Litschko, Robert & Ruder, Sebastian & Vulić, Ivan. (2019). How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions. 710-721. 10.18653/v1/P19-1070. [[pape]](https://www.aclweb.org/anthology/P19-1070.pdf)
