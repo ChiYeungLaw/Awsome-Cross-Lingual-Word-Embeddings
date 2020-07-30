@@ -52,11 +52,15 @@ This survey [A survey of cross-lingual word embedding models](https://arxiv.org/
 3. Glavaš, Goran & Litschko, Robert & Ruder, Sebastian & Vulić, Ivan. (2019). How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions. 710-721. 10.18653/v1/P19-1070. [[pape]](https://www.aclweb.org/anthology/P19-1070.pdf)
 4. Vulić, Ivan & Glavaš, Goran & Reichart, Roi & Korhonen, Anna. (2019). Do We Really Need Fully Unsupervised Cross-Lingual Embeddings?. [[paper]](https://www.aclweb.org/anthology/D19-1449/)	
 5. Vulić, Ivan & Ruder, Sebastian & Søgaard, Anders. (2020). Are All Good Word Vector Spaces Isomorphic?.  [[paper]](https://www.researchgate.net/publication/340523938_Are_All_Good_Word_Vector_Spaces_Isomorphic)
+6. Haim Dubossarsky, Ivan Vulic, Roi Reichart, Anna Korhonen(2020). Lost in Embedding Space: Explaining Cross-Lingual Task Performance with Eigenvalue Divergence. (CoRR abs/2001.11136) [[paper]](https://arxiv.org/abs/2001.11136)
 
-## Pre-Processing
+## Monolingual Post-processing Methods (Pre-processing)
 
-1. Zhang, Mozhi et al. “Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization.” *ACL* (2019). [[paper]](https://arxiv.org/abs/1906.01622)
-2. Vulić, Ivan, Anna Korhonen, and Goran Glavaš. "Improving Bilingual Lexicon Induction with Unsupervised Post-Processing of Monolingual Word Vector Spaces." Proceedings of the 5th Workshop on Representation Learning for NLP. 2020. [[paper]](https://www.aclweb.org/anthology/2020.repl4nlp-1.7/)
+1. Mu, Jiaqi & Bhat, Suma & Viswanath, Pramod. (2017). All-but-the-Top: Simple and Effective Postprocessing for Word Representations.  [[paper]](https://arxiv.org/abs/1702.01417v2)
+2. Raunak, Vikas and Vivek Gupta. “Effective Dimensionality Reduction for Word Embeddings.” *ArXiv* abs/1708.03629 (2019): n. pag. [[paper]](https://www.aclweb.org/anthology/W19-4328/)
+3. Wang, B., Chen, F., Wang, A.Y., & Kuo, C.J. (2019). Post-Processing of Word Representations via Variance Normalization and Dynamic Embedding. *2019 IEEE International Conference on Multimedia and Expo (ICME)*, 718-723. [[paper]](https://arxiv.org/pdf/1808.06305.pdf)
+4. Zhang, Mozhi et al. “Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization.” *ACL* (2019). [[paper]](https://arxiv.org/abs/1906.01622)
+5. Vulić, Ivan, Anna Korhonen, and Goran Glavaš. "Improving Bilingual Lexicon Induction with Unsupervised Post-Processing of Monolingual Word Vector Spaces." Proceedings of the 5th Workshop on Representation Learning for NLP. 2020. [[paper]](https://www.aclweb.org/anthology/2020.repl4nlp-1.7/)
 
 ## Post-Refinement
 
