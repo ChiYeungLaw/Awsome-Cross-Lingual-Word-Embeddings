@@ -4,6 +4,8 @@ This repo contains some Cross-lingual word embeddings research. I summarize some
 
 This survey [A survey of cross-lingual word embedding models](https://arxiv.org/abs/1706.04902) has good coverage of this area.
 
+**Note: this repo is no longer updated. Sorry. :(**
+
 # Word-level Alignment Method
 
 ## Linear Mapping
